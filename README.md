@@ -25,6 +25,7 @@ The Hotel Booking System aims to simplify hotel reservations by providing user m
 👥 Team Members & Responsibilities
 
 Team Member| Responsibilities
+
 Abdelhamid Adel Abdelhamid Abdelrahman| User Management and GitHub Management
 
 
