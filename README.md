@@ -25,7 +25,7 @@ The Hotel Booking System aims to simplify hotel reservations by providing user m
 👥 Team Members & Responsibilities
 
 Team Member| Responsibilities
-Abdelhamid Adel Abdelhamid Abdelrahman| User Management
+Abdelhamid Adel Abdelhamid Abdelrahman| User Management  GitHub Management
 Hesham Ibrahim El Sebaei Mohamed| Room Management
 Hesham Ahmed Fathy El Shanawy| Booking Management
 Marwan Mohamed Mohamed Naguib| Customer Management
@@ -43,7 +43,6 @@ All team members collaborate on:
 - Integration & System Testing: Validate interactions between modules and the complete system.
 - Selenium Automation Testing: Automate selected test scenarios.
 - Bug Reporting & Fixing: Document defects, track fixes, and perform regression testing.
-- GitHub Management: Organize project files and coordinate code changes.
 - Final Presentation: Prepare and present the project and its results.
 
 📅 Project Timeline
